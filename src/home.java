@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class home {
-    static ArrayList<Pemesanan> Pemesanan = new ArrayList<Pemesanan>();
+    //static ArrayList<Pemesanan> Pemesanan = new ArrayList<Pemesanan>();
     static Scanner sc = new Scanner(System.in);
     public static void main (String[]args){
         Pemesanan Pemesanan = new Pemesanan();
